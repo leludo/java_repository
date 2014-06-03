@@ -1,4 +1,4 @@
-package headfirst.chapter03;
+package headfirst.chapter03.homemade;
 /**
  * Component
  * @author ludovic

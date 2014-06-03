@@ -1,6 +1,6 @@
-package headfirst.chapter03.beverages;
+package headfirst.chapter03.homemade.beverages;
 
-import headfirst.chapter03.Beverage;
+import headfirst.chapter03.homemade.Beverage;
 
 /**
  * ConcreteComponent ->  Capuccino

@@ -1,4 +1,6 @@
-package headfirst.chapter03;
+package headfirst.chapter03.homemade;
+
+
 /**
  * Decorator
  * @author ludovic

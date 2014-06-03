@@ -1,7 +1,7 @@
-package headfirst.chapter03.condiments;
+package headfirst.chapter03.homemade.condiments;
 
-import headfirst.chapter03.Beverage;
-import headfirst.chapter03.Condiment;
+import headfirst.chapter03.homemade.Beverage;
+import headfirst.chapter03.homemade.Condiment;
 /**
  * ConcreteDecorator -> Chocolate
  * @author ludovic
